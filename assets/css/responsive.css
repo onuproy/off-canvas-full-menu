@@ -1,0 +1,28 @@
+@media all and (min-width: 1700px) {
+	.container {
+		max-width: 1640px;
+			width: 100%;
+		}
+	}
+@media all and (max-width: 1266px) {
+	.main_manu ul li a {
+		font-size: 14px;
+		margin-right: 25px;
+	}
+
+}
+
+@media all and (max-width: 1266px) {
+	.main_manu ul li a {
+		font-size: 14px;
+		margin-right: 25px;
+	}
+
+}
+@media all and (max-width: 991px) {
+	.button_container {
+	    top: 30px;
+	    right: 40px;
+	}
+
+}
